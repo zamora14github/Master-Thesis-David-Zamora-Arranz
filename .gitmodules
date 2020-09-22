@@ -10,3 +10,6 @@
 [submodule "producer_s7"]
 	path = producer_s7
 	url = https://github.com/zamora14github/producer_s7.git
+[submodule "Docker-compose-and-files"]
+	path = Docker-compose-and-files
+	url = https://github.com/zamora14github/Docker-compose-and-files.git
