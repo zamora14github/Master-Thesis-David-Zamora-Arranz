@@ -1,0 +1,12 @@
+[submodule "sparkTransformer"]
+	path = sparkTransformer
+	url = https://github.com/zamora14github/sparkTransformer.git
+[submodule "alarmGenerator"]
+	path = alarmGenerator
+	url = https://github.com/zamora14github/alarmGenerator.git
+[submodule "producer_modbus"]
+	path = producer_modbus
+	url = https://github.com/zamora14github/producer_modbus.git
+[submodule "producer_s7"]
+	path = producer_s7
+	url = https://github.com/zamora14github/producer_s7.git
